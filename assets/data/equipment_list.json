@@ -1,0 +1,38 @@
+{
+    "equipment": [
+        {
+            "id": 1,
+            "equipment_id": "EQ-001",
+            "customer_profile_id": "CUST-001",
+            "equipment_brand": "TAFE",
+            "equipment_family": "TRACTOR",
+            "equipment_category": "4WD",
+            "equipment_group": "Vehicle",
+            "equipment_ownership": "customer",
+            "code": "EQ-001",
+            "name": "UAX-001-D",
+            "description": "On Loan Tractor",
+            "model": "75XY",
+            "part_number": "2001134-001",
+            "serial_number": "SN-001",
+            "count": 1
+        },
+        {
+            "id": 2,
+            "equipment_id": "EQ-002",
+            "customer_profile_id": "CUST-001",
+            "equipment_brand": "TAFE",
+            "equipment_family": "TRACTOR",
+            "equipment_category": "4WD",
+            "equipment_group": "Vehicle",
+            "equipment_ownership": "service",
+            "code": "EQ-002",
+            "name": "UAX-001-D",
+            "description": "On Loan Tractor",
+            "model": "75XY",
+            "part_number": "2001134-001",
+            "serial_number": "SN-002",
+            "count": 2
+        }
+    ]
+}

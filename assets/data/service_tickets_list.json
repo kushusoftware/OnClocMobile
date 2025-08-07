@@ -1,0 +1,52 @@
+{
+    "service_tickets": [
+        {
+            "id": 1,
+            "service_ticket_id": "ST-001",
+            "subject": "Network Issue",
+            "description":  "Unable to connect to the internet.",
+            "remarks":  "Investigating the issue.",
+            "ticket_status": "Open",
+            "ticket_priority": "High",
+            "ticket_category": "Network",
+            "client_name": "Engineering Solutions",
+            "client_profile_pic": "https://on-cloc.app/clients/engsol/engsol_logo.png",
+            "opened_on_date": "2025-04-01:08:15:00Z",
+            "closed_on_date": "",
+            "ticket_age": 2,
+            "allow_transition": false
+        },
+        {
+            "id": 2,
+            "service_ticket_id": "ST-002",
+            "subject": "Software Bug",
+            "description":  "Application crashes on startup.",
+            "remarks":  "Bug reported to development team.",
+            "ticket_status": "In Progress",
+            "ticket_priority": "Medium",
+            "ticket_category": "Software",
+            "client_name": "Tech Innovations",
+            "client_profile_pic": "https://on-cloc.app/clients/engsol/engsol_logo.png",
+            "opened_on_date": "2025-04-02:09:30:00Z",
+            "closed_on_date": "",
+            "ticket_age": 1,
+            "allow_transition": true
+        },
+        {
+            "id": 3,
+            "service_ticket_id": "ST-003",
+            "subject": "Hardware Failure",
+            "description":  "Server not responding.",
+            "remarks":  "cannot be resolved remotely.",
+            "ticket_status": "Closed",
+            "ticket_priority": "Critical",
+            "ticket_category": "Hardware",
+            "client_name": "Kampala Metropole Group",
+            "client_profile_pic": "https://on-cloc.app/clients/engsol/engsol_logo.png",
+            "opened_on_date": "2025-04-03:10:45:00Z",
+            "closed_on_date": "",
+            "ticket_age": 0,
+            "allow_transition": false
+        }
+    ]
+}

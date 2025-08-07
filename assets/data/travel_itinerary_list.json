@@ -1,0 +1,92 @@
+{
+  "travel_itinerary": [
+    {
+      "id": 1,
+      "travel_id": "TRV-001",
+      "travel_date": "2025-05-26T10:00:00Z",
+      "travel_from": "Kampala",
+      "travel_to": "Gulu",
+      "travel_mode": "Bus",
+      "travel_status": "Approved",
+      "event_name": "Vehicle Inspection",
+      "event_description": "Vehicle inspection for the trip to Gulu."
+    },
+    {
+      "id": 2,
+      "travel_id": "TRV-002",
+      "travel_date": "2025-05-08T10:00:00Z",
+      "travel_from": "Kampala",
+      "travel_to": "Jinja",
+      "travel_mode": "Car",
+      "travel_status": "Approved",
+      "event_name": "Repair Work",
+      "event_description": "Repair work on the vehicle before the trip to Jinja."
+    },
+    {
+      "id": 3,
+      "travel_id": "TRV-003",
+      "travel_date": "2025-06-15T10:00:00Z",
+      "travel_from": "Kampala",
+      "travel_to": "Mbarara",
+      "travel_mode": "Train",
+      "travel_status": "Requested",
+      "event_name": "Routine Maintenance",
+      "event_description": "Routine maintenance of the vehicle before the trip to Mbarara."
+    },
+    {
+      "id": 4,
+      "travel_id": "TRV-004",
+      "travel_date": "2025-07-30T10:00:00Z",
+      "travel_from": "Kampala",
+      "travel_to": "Masaka",
+      "travel_mode": "Bus",
+      "travel_status": "Requested",
+      "event_name": "Parts Replacement",
+      "event_description": "Replacement of parts for the vehicle before the trip to Masaka."
+    },
+    {
+      "id": 5,
+      "travel_id": "TRV-005",
+      "travel_date": "2025-08-07T10:00:00Z",
+      "travel_from": "Kampala",
+      "travel_to": "Fort Portal",
+      "travel_mode": "Car",
+      "travel_status": "Requested",
+      "event_name": "Tractor Service",
+      "event_description": "Service of the tractor before the trip to Fort Portal."
+    },
+    {
+      "id": 6,
+      "travel_id": "TRV-006",
+      "travel_date": "2025-09-12T10:00:00Z",
+      "travel_from": "Kampala",
+      "travel_to": "Gulu",
+      "travel_mode": "Bus",
+      "travel_status": "Approved",
+      "event_name": "Routine Maintenance",
+      "event_description": "Routine maintenance of the vehicle before the trip to Gulu."
+    },
+    {
+      "id": 7,
+      "travel_id": "TRV-007",
+      "travel_date": "2025-09-13T10:00:00Z",
+      "travel_from": "Kampala",
+      "travel_to": "Kitgum",
+      "travel_mode": "Car",
+      "travel_status": "Requested",
+      "event_name": "Vehicle Inspection",
+      "event_description": "Vehicle inspection for the trip to Kitgum."
+    },
+    {
+      "id": 8,
+      "travel_id": "TRV-008",
+      "travel_date": "2025-11-25T10:00:00Z",
+      "travel_from": "Kampala",
+      "travel_to": "Tororo",
+      "travel_mode": "Train",
+      "travel_status": "Requested",
+      "event_name": "Equipment Delivery",
+      "event_description": "Delivery of equipment to Tororo."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "user_activities": [
+    {
+      "id": 1,
+      "date": "2025-04-04T10:00:00",
+      "activity": "Check In",
+      "activity_type": "CI",
+      "status": "on Time",
+      "time": "09:00 am"
+    },
+    {
+      "id": 2,
+      "date": "2025-04-04T10:00:00",
+      "activity": "Break In",
+      "activity_type": "BT",
+      "status": "on Time",
+      "time": "01:00 pm"
+    },
+    {
+      "id": 3,
+      "date": "2025-04-04T10:00:00",
+      "activity": "Break Out",
+      "status": "on Time",
+      "activity_type": "BT",
+      "time": "01:30 pm"
+    },
+    {
+      "id": 4,
+      "date": "2025-04-04T10:00:00",
+      "activity": "Check Out",
+      "activity_type": "CO",
+      "status": "on Time",
+      "time": "05:30 pm"
+    }
+  ]
+}
